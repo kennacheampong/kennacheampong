@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennacheampong
 - 👀 I’m interested in solving problems using emerging technologies
-- 🌱 I’m currently learning dapps development
+- 🌱 I’m currently learning about web3, blockchain technology and dapps.
 - 💞️ I’m looking to collaborate on anything concerning dapps
 - 📫 You can reach me via mail on kennacheampong@gmail.com
 
